@@ -11,3 +11,4 @@ alimentation et leur progression globale.
 * Java EE
 
 ## Diagramme
+![alt tag](https://raw.githubusercontent.com/Aaron-KASONGO/groupe_ada_lovelace/main/Ada_lovelace.jpg)
